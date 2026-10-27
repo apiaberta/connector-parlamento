@@ -1,0 +1,37 @@
+{
+  "DetalheLegislatura": {
+    "id": 17.0,
+    "sigla": "XVII",
+    "dtini": "2024-03-26",
+    "dtfim": null
+  },
+  "SessoesLegislativas": [
+    { "sel": 1.0, "dtini": "2024-03-26", "dtfim": "2025-09-15" }
+  ],
+  "GruposParlamentares": [
+    { "sigla": "PS", "nome": "Partido Socialista" },
+    { "sigla": "PSD", "nome": "Partido Social Democrata" }
+  ],
+  "CirculosEleitorais": [
+    { "cpId": 1.0, "cpDes": "Aveiro" },
+    { "cpId": 11.0, "cpDes": "Lisboa" }
+  ],
+  "Deputados": [
+    {
+      "DepId": 15760.0,
+      "DepCadId": 2167.0,
+      "DepNomeParlamentar": "Maria Silva",
+      "DepNomeCompleto": "Maria da Silva Costa",
+      "DepCPId": 11.0,
+      "DepCPDes": "Lisboa",
+      "DepGP": [
+        { "gpId": 1.0, "gpSigla": "PS", "gpDtInicio": "2024-03-26", "gpDtFim": null }
+      ],
+      "DepSituacao": [
+        { "sioDes": "Efetivo", "sioDtInicio": "2024-03-26", "sioDtFim": "" }
+      ],
+      "DepCargo": null,
+      "LegDes": "XVII"
+    }
+  ]
+}

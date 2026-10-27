@@ -1,0 +1,8 @@
+export { Iniciativa } from './iniciativa.js'
+export { Votacao } from './votacao.js'
+export { Deputado } from './deputado.js'
+export { Grupo } from './grupo.js'
+export { Circulo } from './circulo.js'
+export { Peticao } from './peticao.js'
+export { Legislatura } from './legislatura.js'
+export { Source } from './source.js'

@@ -1,0 +1,34 @@
+[
+  {
+    "PetId": "PET-1",
+    "PetNr": 12.0,
+    "PetLeg": "XVII",
+    "PetSel": 1.0,
+    "PetAssunto": "Mobilidade em Lisboa",
+    "PetAutor": "Associação Exemplo",
+    "PetDataEntrada": "2024-06-01",
+    "PetNrAssinaturas": "242",
+    "PetNrAssinaturasInicial": "",
+    "PetSituacao": "Em apreciação",
+    "PetUrlTexto": "https://www.parlamento.pt/peticoes/1",
+    "DataDebate": null,
+    "DadosComissao": [
+      {
+        "Nome": "Comissão de Economia",
+        "Situacao": "Admitida",
+        "DataAdmissibilidade": "2024-06-10",
+        "Admissibilidade": "Admitida",
+        "Relatores": [{ "nome": "João Costa" }]
+      }
+    ],
+    "Documentos": [
+      {
+        "TituloDocumento": "Texto inicial",
+        "TipoDocumento": "PDF",
+        "DataDocumento": "2024-06-01",
+        "URL": "https://www.parlamento.pt/docs/pet1.pdf"
+      }
+    ],
+    "Iniciativasoriginadas": []
+  }
+]
