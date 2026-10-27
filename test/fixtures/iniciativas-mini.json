@@ -1,0 +1,127 @@
+﻿[
+  {
+    "IniId": "INI-100",
+    "IniNr": 1.0,
+    "IniLeg": "XVII",
+    "IniSel": 1.0,
+    "IniTipo": "P",
+    "IniDescTipo": "Projeto de Lei",
+    "IniTitulo": "Altera o Código da Estrada",
+    "IniEpigrafe": "Código da Estrada",
+    "IniLinkTexto": "https://www.parlamento.pt/ini/100",
+    "DataInicioleg": "2024-04-01",
+    "DataFimleg": null,
+    "IniAutorGruposParlamentares": [{ "GP": "PS" }],
+    "IniAutorDeputados": [{ "GP": "PS", "idCadastro": 2167.0, "nome": "Maria Silva" }],
+    "IniAutorOutros": { "nome": "", "sigla": "" },
+    "IniAnexos": [{ "anexoNome": "Texto", "anexoFich": "https://www.parlamento.pt/docs/100.pdf" }],
+    "IniEventos": [
+      {
+        "EvtId": 10.0,
+        "OevId": 1.0,
+        "CodigoFase": "ENT",
+        "Fase": "Entrada",
+        "DataFase": "2024-04-01",
+        "Comissao": { "Nome": "Comissão de Economia", "Id": 9, "Blob": "xxxxxxxxxxxxxxxx" },
+        "ObsFase": null,
+        "PublicacaoFase": "DROP-THIS-BLOB-AAAAAAAAAA",
+        "Intervencoesdebates": "DROP-THIS-BLOB-BBBBBBBBBB",
+        "Votacao": []
+      },
+      {
+        "EvtId": 11.0,
+        "OevId": 2.0,
+        "CodigoFase": "VOT",
+        "Fase": "Votação na generalidade",
+        "DataFase": "2024-05-10",
+        "Comissao": "Plenário",
+        "ObsFase": null,
+        "PublicacaoFase": "DROP-THIS-BLOB-CCCCCCCCCC",
+        "Intervencoesdebates": "DROP-THIS-BLOB-DDDDDDDDDD",
+        "Votacao": [
+          {
+            "id": 9001.0,
+            "data": "2024-05-10",
+            "resultado": "Aprovado",
+            "detalhe": "A Favor: <I>PSD</I>, <I> PS</I><BR>Contra:<I>CH</I><BR>Abstenção:<I>L</I>, <I> PCP</I>",
+            "unanime": null,
+            "reuniao": 42.0,
+            "tipoReuniao": "Plenário",
+            "descricao": "Votação na generalidade",
+            "ausencias": null,
+            "publicacao": "DAR I"
+          },
+          {
+            "id": 9002.0,
+            "data": "2024-05-10",
+            "resultado": "Aprovado",
+            "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>CH</I><BR>Abstenção:<I>L</I>",
+            "unanime": null,
+            "reuniao": 42.0,
+            "tipoReuniao": "Plenário",
+            "descricao": "Votação na especialidade",
+            "ausencias": null,
+            "publicacao": "DAR I"
+          }
+        ]
+      }
+    ],
+    "Peticoes": [],
+    "PropostasAlteracao": [],
+    "IniciativasOrigem": [],
+    "IniciativasOriginadas": []
+  },
+  {
+    "IniId": "INI-101",
+    "IniNr": 2.0,
+    "IniLeg": "XVII",
+    "IniSel": 1.0,
+    "IniTipo": "R",
+    "IniDescTipo": "Projeto de Resolução",
+    "IniTitulo": "Recomenda ao Governo medidas de habitação",
+    "IniEpigrafe": "Habitação",
+    "IniLinkTexto": "https://www.parlamento.pt/ini/101",
+    "DataInicioleg": "2024-04-15",
+    "IniAutorGruposParlamentares": [{ "GP": "BE" }],
+    "IniAutorDeputados": [],
+    "IniAutorOutros": { "nome": "", "sigla": "" },
+    "IniAnexos": [],
+    "IniEventos": [
+      {
+        "EvtId": 20.0,
+        "OevId": 1.0,
+        "CodigoFase": "ENT",
+        "Fase": "Entrada",
+        "DataFase": "2024-04-15",
+        "Comissao": null,
+        "Votacao": []
+      }
+    ]
+  },
+  {
+    "IniId": "INI-102",
+    "IniNr": 3.0,
+    "IniLeg": "XVII",
+    "IniSel": 1.0,
+    "IniTipo": "J",
+    "IniDescTipo": "Proposta de Lei",
+    "IniTitulo": "Orçamento do Estado",
+    "IniEpigrafe": "OE",
+    "IniLinkTexto": "https://www.parlamento.pt/ini/102",
+    "DataInicioleg": "2024-10-10",
+    "IniAutorGruposParlamentares": [],
+    "IniAutorDeputados": [],
+    "IniAutorOutros": { "nome": "Governo", "sigla": "GOV" },
+    "IniAnexos": [],
+    "IniEventos": [
+      {
+        "EvtId": 30.0,
+        "OevId": 1.0,
+        "CodigoFase": "ENT",
+        "Fase": "Entrada",
+        "DataFase": "2024-10-10",
+        "Votacao": []
+      }
+    ]
+  }
+]
